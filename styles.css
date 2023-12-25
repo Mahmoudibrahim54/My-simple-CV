@@ -9,6 +9,7 @@ body {
   img{
     border-radius: 100%;
     width: 250px;
+    height: 250px;
     border:#ffb3b3 solid  2px ;
   }
 
