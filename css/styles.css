@@ -155,7 +155,7 @@ p:active, p:hover {
 
 
 
-@media screen and (min-width: 480px) {
+@media screen and (max-width: 480px) {
   body{
     .header {
     flex-wrap: wrap;
