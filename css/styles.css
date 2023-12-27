@@ -77,6 +77,8 @@ body {
         border-width: 1.5px;
         border-color: #66bfbf;
         width: 45%;
+        column-width:45;
+        -webkit-column-width: 45%;
       }
     }
 
