@@ -181,5 +181,13 @@ body {
       flex-wrap: wrap;
       justify-content: center;
     }
+    .hobbies,
+    .courses {
+      hr {
+        width: 95%;
+        margin: 0;
+      }
+    }
   }
 }
+
